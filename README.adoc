@@ -1,0 +1,27 @@
+OpenJ9 Batch Processor runtime comparison
+
+This is a Spring Batch project designed to show off the performance benefits of OpenJ9 when compared to Hotspot. 
+
+== Running
+
+In order to run the project, you first need to build the Spring Batch Processor application: 
+
+----
+cd batch-processor/
+./mvnw clean package
+cd ..
+----
+
+Next, build the docker images and execute the test runs:
+
+----
+cd demos/baseline-openj9-vs-hotspot
+./build_docker_containers.sh
+./run-demo.sh 
+----
+
+While the Docker container are running, you can see the resource consumption in another shell window:
+
+----
+demos/docker_stats.sh
+----
