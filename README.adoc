@@ -25,3 +25,7 @@ While the Docker container are running, you can see the resource consumption in 
 ----
 demos/docker_stats.sh
 ----
+
+== Credits
+
+All credits regarding this project go to my awesome colleague https://github.com/wkorando[wkorando^].
