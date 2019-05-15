@@ -1658,3 +1658,1074 @@ openj9_cold, 104.65%, 148.9MiB / 1.952GiB
 openj9_cold, 103.11%, 149.1MiB / 1.952GiB
 openj9_cold, 104.30%, 149.1MiB / 1.952GiB
 openj9_cold, 105.30%, 149.3MiB / 1.952GiB
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.02system 0:01.82elapsed 2%CPU (0avgtext+0avgdata 58388maxresident)k
+0inputs+8outputs (0major+7361minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+prometheus, 0.00%, 45.52MiB / 19.47GiB
+grafana, 0.05%, 20.99MiB / 19.47GiB
+node-exporter, 0.00%, 9.43MiB / 19.47GiB
+cadvisor, 3.22%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.03system 0:01.97elapsed 3%CPU (0avgtext+0avgdata 57852maxresident)k
+0inputs+0outputs (0major+7160minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+prometheus, 0.62%, 45.54MiB / 19.47GiB
+grafana, 0.06%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.43MiB / 19.47GiB
+cadvisor, 10.63%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_shared_cache, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.01system 0:01.61elapsed 2%CPU (0avgtext+0avgdata 58116maxresident)k
+0inputs+0outputs (0major+7311minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+prometheus, 0.10%, 45.54MiB / 19.47GiB
+grafana, 0.03%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.43MiB / 19.47GiB
+cadvisor, 3.00%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.02system 0:01.65elapsed 3%CPU (0avgtext+0avgdata 58132maxresident)k
+0inputs+0outputs (0major+7206minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+prometheus, 0.47%, 45.42MiB / 19.47GiB
+grafana, 0.03%, 21MiB / 19.47GiB
+node-exporter, 3.41%, 9.434MiB / 19.47GiB
+cadvisor, 1.75%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.01user 0.04system 0:01.61elapsed 3%CPU (0avgtext+0avgdata 57996maxresident)k
+0inputs+0outputs (0major+7201minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+prometheus, 1.08%, 45.31MiB / 19.47GiB
+grafana, 0.01%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.434MiB / 19.47GiB
+cadvisor, 2.64%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_shared_cache, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.03system 0:01.64elapsed 4%CPU (0avgtext+0avgdata 57824maxresident)k
+0inputs+0outputs (0major+7207minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.03system 0:01.66elapsed 4%CPU (0avgtext+0avgdata 58076maxresident)k
+0inputs+0outputs (0major+7201minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+prometheus, 0.00%, 45.31MiB / 19.47GiB
+grafana, 0.14%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.434MiB / 19.47GiB
+cadvisor, 2.40%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.02system 0:01.61elapsed 3%CPU (0avgtext+0avgdata 58312maxresident)k
+0inputs+0outputs (0major+7372minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+prometheus, 6.48%, 45.33MiB / 19.47GiB
+grafana, 0.04%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.438MiB / 19.47GiB
+cadvisor, 10.19%, 35.77MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_shared_cache, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.02system 0:01.63elapsed 3%CPU (0avgtext+0avgdata 58296maxresident)k
+0inputs+0outputs (0major+7222minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+prometheus, 0.19%, 45.33MiB / 19.47GiB
+grafana, 0.04%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.438MiB / 19.47GiB
+cadvisor, 3.16%, 35.76MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.03system 0:01.63elapsed 3%CPU (0avgtext+0avgdata 57844maxresident)k
+0inputs+0outputs (0major+7241minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+prometheus, 0.20%, 45.34MiB / 19.47GiB
+grafana, 0.05%, 21MiB / 19.47GiB
+node-exporter, 2.98%, 9.438MiB / 19.47GiB
+cadvisor, 1.19%, 35.76MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.03system 0:01.64elapsed 3%CPU (0avgtext+0avgdata 58540maxresident)k
+0inputs+0outputs (0major+7379minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_shared_cache, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.03system 0:01.62elapsed 4%CPU (0avgtext+0avgdata 58568maxresident)k
+0inputs+8outputs (0major+7331minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+prometheus, 1.01%, 45.48MiB / 19.47GiB
+grafana, 0.04%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.438MiB / 19.47GiB
+cadvisor, 2.72%, 35.76MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.02system 0:01.61elapsed 3%CPU (0avgtext+0avgdata 58476maxresident)k
+0inputs+0outputs (0major+7380minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+prometheus, 0.00%, 45.36MiB / 19.47GiB
+grafana, 0.24%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.438MiB / 19.47GiB
+cadvisor, 3.34%, 35.76MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.03user 0.03system 0:01.64elapsed 3%CPU (0avgtext+0avgdata 58752maxresident)k
+0inputs+0outputs (0major+7376minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+prometheus, 0.43%, 45.38MiB / 19.47GiB
+grafana, 0.01%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.438MiB / 19.47GiB
+cadvisor, 8.85%, 35.76MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_shared_cache, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.03system 0:01.62elapsed 3%CPU (0avgtext+0avgdata 58000maxresident)k
+0inputs+0outputs (0major+7197minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+prometheus, 0.07%, 45.38MiB / 19.47GiB
+grafana, 0.03%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.438MiB / 19.47GiB
+cadvisor, 1.98%, 35.76MiB / 19.47GiB
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.02system 0:01.61elapsed 3%CPU (0avgtext+0avgdata 58300maxresident)k
+0inputs+0outputs (0major+7274minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+prometheus, 0.40%, 45.39MiB / 19.47GiB
+grafana, 0.04%, 21MiB / 19.47GiB
+node-exporter, 7.42%, 9.438MiB / 19.47GiB
+cadvisor, 3.28%, 35.76MiB / 19.47GiB
+Command exited with non-zero status 125
+0.01user 0.05system 0:01.64elapsed 4%CPU (0avgtext+0avgdata 58096maxresident)k
+0inputs+0outputs (0major+7211minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+Command terminated by signal 2
+0.03user 0.03system 0:00.53elapsed 13%CPU (0avgtext+0avgdata 57992maxresident)k
+0inputs+0outputs (0major+7226minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+Command terminated by signal 2
+0.03user 0.03system 0:00.66elapsed 10%CPU (0avgtext+0avgdata 58512maxresident)k
+0inputs+0outputs (0major+7398minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+Command terminated by signal 2
+0.02user 0.03system 0:00.18elapsed 33%CPU (0avgtext+0avgdata 58192maxresident)k
+0inputs+0outputs (0major+7256minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+Command terminated by signal 2
+0.03user 0.02system 0:00.16elapsed 39%CPU (0avgtext+0avgdata 58432maxresident)k
+0inputs+0outputs (0major+7308minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+Command terminated by signal 2
+0.04user 0.02system 0:00.65elapsed 11%CPU (0avgtext+0avgdata 58440maxresident)k
+0inputs+0outputs (0major+7313minor)pagefaults 0swaps
+Command terminated by signal 2
+0.00user 0.02system 0:00.02elapsed 96%CPU (0avgtext+0avgdata 27200maxresident)k
+0inputs+0outputs (0major+4258minor)pagefaults 0swaps
+Command terminated by signal 2
+0.01user 0.02system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 54916maxresident)k
+0inputs+0outputs (0major+7025minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+Command terminated by signal 2
+0.01user 0.02system 0:00.03elapsed 105%CPU (0avgtext+0avgdata 58384maxresident)k
+0inputs+0outputs (0major+7382minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+Command terminated by signal 2
+0.02user 0.01system 0:00.03elapsed 100%CPU (0avgtext+0avgdata 58032maxresident)k
+0inputs+0outputs (0major+7255minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+Command terminated by signal 2
+0.01user 0.02system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 58224maxresident)k
+0inputs+0outputs (0major+7247minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+Command terminated by signal 2
+0.02user 0.01system 0:00.03elapsed 105%CPU (0avgtext+0avgdata 57956maxresident)k
+0inputs+0outputs (0major+7221minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+Command terminated by signal 2
+0.01user 0.02system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 58032maxresident)k
+0inputs+0outputs (0major+7242minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+Command terminated by signal 2
+0.02user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 57692maxresident)k
+0inputs+0outputs (0major+7155minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+Command terminated by signal 2
+0.02user 0.01system 0:00.03elapsed 100%CPU (0avgtext+0avgdata 58008maxresident)k
+0inputs+0outputs (0major+7227minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+Command terminated by signal 2
+0.02user 0.00system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 57984maxresident)k
+0inputs+0outputs (0major+7208minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+Command terminated by signal 2
+0.02user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 57856maxresident)k
+0inputs+0outputs (0major+7236minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.01user 0.02system 0:01.60elapsed 2%CPU (0avgtext+0avgdata 58120maxresident)k
+0inputs+0outputs (0major+7214minor)pagefaults 0swaps
+prometheus, 0.37%, 45.38MiB / 19.47GiB
+grafana, 0.02%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.445MiB / 19.47GiB
+cadvisor, 6.09%, 35.76MiB / 19.47GiB
+prometheus, 0.05%, 45.38MiB / 19.47GiB
+grafana, 0.04%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.445MiB / 19.47GiB
+cadvisor, 3.97%, 35.88MiB / 19.47GiB
+grafana, 0.09%, 21MiB / 19.47GiB
+node-exporter, 0.02%, 9.445MiB / 19.47GiB
+cadvisor, 2.66%, 35.71MiB / 19.47GiB
+grafana, 0.03%, 21MiB / 19.47GiB
+node-exporter, 0.00%, 9.445MiB / 19.47GiB
+cadvisor, 2.84%, 35.71MiB / 19.47GiB
+--, 0.00%, 0B / 0B
+cadvisor, 9.41%, 11.61MiB / 19.47GiB
+cadvisor, 5.37%, 11.84MiB / 19.47GiB
+prometheus, 0.00%, 26.05MiB / 19.47GiB
+prometheus, 0.00%, 26.05MiB / 19.47GiB
+cadvisor, 4.39%, 12.09MiB / 19.47GiB
+node-exporter, 0.00%, 2.551MiB / 19.47GiB
+node-exporter, 2.37%, 5.543MiB / 19.47GiB
+prometheus, 0.50%, 27.7MiB / 19.47GiB
+cadvisor, 4.15%, 12.31MiB / 19.47GiB
+grafana, 0.56%, 20.7MiB / 19.47GiB
+grafana, 0.03%, 20.7MiB / 19.47GiB
+node-exporter, 0.00%, 5.543MiB / 19.47GiB
+prometheus, 0.00%, 27.7MiB / 19.47GiB
+cadvisor, 3.30%, 12.69MiB / 19.47GiB
+grafana, 0.06%, 20.7MiB / 19.47GiB
+node-exporter, 4.82%, 6.586MiB / 19.47GiB
+prometheus, 0.65%, 32.88MiB / 19.47GiB
+cadvisor, 2.54%, 18.28MiB / 19.47GiB
+grafana, 0.03%, 20.7MiB / 19.47GiB
+node-exporter, 0.00%, 6.488MiB / 19.47GiB
+prometheus, 0.00%, 32.88MiB / 19.47GiB
+cadvisor, 2.71%, 18.59MiB / 19.47GiB
+grafana, 0.03%, 20.7MiB / 19.47GiB
+node-exporter, 0.00%, 6.488MiB / 19.47GiB
+prometheus, 1.73%, 33.2MiB / 19.47GiB
+cadvisor, 8.20%, 18.63MiB / 19.47GiB
+grafana, 0.07%, 20.7MiB / 19.47GiB
+node-exporter, 0.00%, 6.719MiB / 19.47GiB
+prometheus, 0.00%, 33.12MiB / 19.47GiB
+cadvisor, 3.24%, 18.64MiB / 19.47GiB
+grafana, 0.04%, 20.71MiB / 19.47GiB
+node-exporter, 4.11%, 7.496MiB / 19.47GiB
+prometheus, 0.60%, 35.98MiB / 19.47GiB
+cadvisor, 3.95%, 21.89MiB / 19.47GiB
+
+grafana, 0.03%, 20.71MiB / 19.47GiB
+node-exporter, 0.00%, 7.496MiB / 19.47GiB
+prometheus, 0.00%, 35.98MiB / 19.47GiB
+cadvisor, 2.34%, 21.78MiB / 19.47GiB
+
+grafana, 0.04%, 20.71MiB / 19.47GiB
+node-exporter, 0.00%, 7.496MiB / 19.47GiB
+prometheus, 1.83%, 36.25MiB / 19.47GiB
+cadvisor, 6.82%, 21.78MiB / 19.47GiB
+
+grafana, 0.03%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.504MiB / 19.47GiB
+prometheus, 0.00%, 36.04MiB / 19.47GiB
+cadvisor, 3.21%, 21.79MiB / 19.47GiB
+
+grafana, 0.03%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.504MiB / 19.47GiB
+prometheus, 0.00%, 36.04MiB / 19.47GiB
+cadvisor, 2.35%, 21.8MiB / 19.47GiB
+
+grafana, 0.03%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.82MiB / 19.47GiB
+prometheus, 0.00%, 35.95MiB / 19.47GiB
+cadvisor, 2.54%, 22.24MiB / 19.47GiB
+
+grafana, 0.03%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.629MiB / 19.47GiB
+prometheus, 0.00%, 35.95MiB / 19.47GiB
+cadvisor, 3.83%, 22.41MiB / 19.47GiB
+
+grafana, 0.41%, 20.73MiB / 19.47GiB
+node-exporter, 6.77%, 7.781MiB / 19.47GiB
+prometheus, 2.36%, 35.99MiB / 19.47GiB
+cadvisor, 5.62%, 22.3MiB / 19.47GiB
+
+grafana, 0.04%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.66MiB / 19.47GiB
+prometheus, 0.00%, 35.99MiB / 19.47GiB
+cadvisor, 3.74%, 22.3MiB / 19.47GiB
+
+Unable to find image 'oj9d_openj9_quickstart_short_run_warm:latest' locally
+grafana, 0.04%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.66MiB / 19.47GiB
+prometheus, 0.00%, 35.99MiB / 19.47GiB
+cadvisor, 3.04%, 22.3MiB / 19.47GiB
+
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_warm, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.03system 0:02.02elapsed 3%CPU (0avgtext+0avgdata 57932maxresident)k
+0inputs+0outputs (0major+7230minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_cold:latest' locally
+grafana, 0.04%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.91MiB / 19.47GiB
+prometheus, 0.00%, 36.05MiB / 19.47GiB
+cadvisor, 2.24%, 22.42MiB / 19.47GiB
+
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_cold, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.01user 0.04system 0:01.65elapsed 3%CPU (0avgtext+0avgdata 57960maxresident)k
+0inputs+0outputs (0major+7177minor)pagefaults 0swaps
+Unable to find image 'oj9d_openj9_quickstart_short_run_shared_cache:latest' locally
+docker: Error response from daemon: pull access denied for oj9d_openj9_quickstart_short_run_shared_cache, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.02user 0.04system 0:01.63elapsed 4%CPU (0avgtext+0avgdata 57884maxresident)k
+0inputs+0outputs (0major+7233minor)pagefaults 0swaps
+grafana, 0.05%, 20.73MiB / 19.47GiB
+node-exporter, 0.00%, 7.91MiB / 19.47GiB
+prometheus, 0.00%, 36.05MiB / 19.47GiB
+cadvisor, 2.87%, 22.42MiB / 19.47GiB
+
+grafana, 0.25%, 20.74MiB / 19.47GiB
+node-exporter, 4.13%, 7.93MiB / 19.47GiB
+prometheus, 2.50%, 36.12MiB / 19.47GiB
+cadvisor, 3.37%, 22.44MiB / 19.47GiB
+
+grafana, 0.04%, 20.74MiB / 19.47GiB
+node-exporter, 0.00%, 7.93MiB / 19.47GiB
+prometheus, 0.00%, 36.12MiB / 19.47GiB
+cadvisor, 2.98%, 22.47MiB / 19.47GiB
+
+grafana, 0.05%, 20.74MiB / 19.47GiB
+node-exporter, 0.00%, 7.93MiB / 19.47GiB
+prometheus, 0.15%, 36.12MiB / 19.47GiB
+cadvisor, 14.66%, 24.6MiB / 19.47GiB
+
+grafana, 0.02%, 20.74MiB / 19.47GiB
+node-exporter, 0.00%, 7.949MiB / 19.47GiB
+prometheus, 0.00%, 36.28MiB / 19.47GiB
+cadvisor, 2.22%, 24.35MiB / 19.47GiB
+
+openj9_warm, 147.67%, 122.4MiB / 19.47GiB
+grafana, 0.02%, 20.79MiB / 19.47GiB
+node-exporter, 0.00%, 8.148MiB / 19.47GiB
+prometheus, 0.41%, 37.04MiB / 19.47GiB
+cadvisor, 3.83%, 27.98MiB / 19.47GiB
+
+openj9_warm, 165.97%, 114.1MiB / 19.47GiB
+grafana, 0.04%, 20.81MiB / 19.47GiB
+node-exporter, 0.00%, 8.156MiB / 19.47GiB
+prometheus, 0.00%, 36.92MiB / 19.47GiB
+cadvisor, 0.87%, 28.05MiB / 19.47GiB
+
+openj9_warm, 167.68%, 109.7MiB / 19.47GiB
+grafana, 0.01%, 20.81MiB / 19.47GiB
+node-exporter, 0.00%, 8.156MiB / 19.47GiB
+prometheus, 0.00%, 36.92MiB / 19.47GiB
+cadvisor, 0.81%, 28.19MiB / 19.47GiB
+
+openj9_warm, 130.37%, 104.6MiB / 19.47GiB
+grafana, 0.01%, 20.81MiB / 19.47GiB
+node-exporter, 2.33%, 8.156MiB / 19.47GiB
+prometheus, 0.69%, 36.95MiB / 19.47GiB
+cadvisor, 0.82%, 28.08MiB / 19.47GiB
+
+openj9_warm, 178.37%, 119.6MiB / 19.47GiB
+grafana, 0.01%, 20.81MiB / 19.47GiB
+node-exporter, 0.00%, 8.156MiB / 19.47GiB
+prometheus, 0.00%, 36.95MiB / 19.47GiB
+cadvisor, 0.93%, 28.09MiB / 19.47GiB
+
+openj9_warm, 162.20%, 153.3MiB / 19.47GiB
+grafana, 0.01%, 20.81MiB / 19.47GiB
+node-exporter, 0.00%, 8.156MiB / 19.47GiB
+prometheus, 0.49%, 36.84MiB / 19.47GiB
+cadvisor, 3.72%, 28.09MiB / 19.47GiB
+
+openj9_warm, 228.33%, 119.6MiB / 19.47GiB
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.172MiB / 19.47GiB
+prometheus, 0.00%, 36.72MiB / 19.47GiB
+cadvisor, 1.10%, 28.09MiB / 19.47GiB
+
+openj9_warm, 120.90%, 106.5MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.172MiB / 19.47GiB
+prometheus, 0.00%, 36.72MiB / 19.47GiB
+cadvisor, 0.65%, 28.1MiB / 19.47GiB
+
+openj9_warm, 385.70%, 148.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 2.80%, 8.172MiB / 19.47GiB
+prometheus, 0.80%, 36.76MiB / 19.47GiB
+cadvisor, 1.80%, 28.11MiB / 19.47GiB
+
+openj9_warm, 183.35%, 114.6MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.172MiB / 19.47GiB
+prometheus, 0.00%, 36.76MiB / 19.47GiB
+cadvisor, 0.79%, 28.12MiB / 19.47GiB
+
+openj9_warm, 254.74%, 125.4MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.172MiB / 19.47GiB
+prometheus, 0.51%, 36.77MiB / 19.47GiB
+cadvisor, 3.10%, 28.12MiB / 19.47GiB
+
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.172MiB / 19.47GiB
+prometheus, 0.00%, 36.79MiB / 19.47GiB
+cadvisor, 0.84%, 28.12MiB / 19.47GiB
+
+Command exited with non-zero status 130
+0.02user 0.04system 0:34.01elapsed 0%CPU (0avgtext+0avgdata 58820maxresident)k
+0inputs+0outputs (0major+7279minor)pagefaults 0swaps
+openj9_warm, 0.00%, 0B / 0B
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.172MiB / 19.47GiB
+prometheus, 0.00%, 36.79MiB / 19.47GiB
+cadvisor, 1.11%, 28.12MiB / 19.47GiB
+openj9_cold, 287.69%, 45.06MiB / 19.47GiB
+
+openj9_cold, 180.40%, 78.96MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.184MiB / 19.47GiB
+prometheus, 0.00%, 36.92MiB / 19.47GiB
+cadvisor, 1.62%, 31.71MiB / 19.47GiB
+
+openj9_cold, 194.91%, 126.7MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.184MiB / 19.47GiB
+prometheus, 0.00%, 36.92MiB / 19.47GiB
+cadvisor, 0.81%, 31.71MiB / 19.47GiB
+
+openj9_cold, 315.52%, 148.7MiB / 19.47GiB
+grafana, 0.09%, 20.82MiB / 19.47GiB
+node-exporter, 2.37%, 8.184MiB / 19.47GiB
+prometheus, 0.69%, 36.95MiB / 19.47GiB
+cadvisor, 1.21%, 31.72MiB / 19.47GiB
+
+Exception in thread "main" java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:48)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:87)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:50)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:51)
+Caused by: java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:816)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:797)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:324)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.ibm.developer.batchprocessor.FootballPlayProcessorApplication.main(FootballPlayProcessorApplication.java:10)
+	... 8 more
+Caused by: org.springframework.transaction.CannotCreateTransactionException: Could not open JPA EntityManager for transaction; nested exception is java.lang.IllegalStateException: EntityManagerFactory is closed
+	at org.springframework.orm.jpa.JpaTransactionManager.doBegin(JpaTransactionManager.java:446)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.getTransaction(AbstractPlatformTransactionManager.java:378)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.createTransactionIfNecessary(TransactionAspectSupport.java:474)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:289)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:98)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy79.update(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)Command exited with non-zero status 130
+0.02user 0.03system 0:10.04elapsed 0%CPU (0avgtext+0avgdata 58676maxresident)k
+0inputs+8outputs (0major+7289minor)pagefaults 0swaps
+Command terminated by signal 2
+0.05user 0.03system 0:00.11elapsed 77%CPU (0avgtext+0avgdata 57588maxresident)k
+0inputs+0outputs (0major+7113minor)pagefaults 0swaps
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.184MiB / 19.47GiB
+prometheus, 0.00%, 36.95MiB / 19.47GiB
+cadvisor, 2.69%, 31.72MiB / 19.47GiB
+
+grafana, 0.04%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.184MiB / 19.47GiB
+prometheus, 0.45%, 36.97MiB / 19.47GiB
+cadvisor, 10.25%, 31.72MiB / 19.47GiB
+
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.188MiB / 19.47GiB
+prometheus, 0.00%, 36.85MiB / 19.47GiB
+cadvisor, 2.19%, 31.72MiB / 19.47GiB
+
+grafana, 0.04%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.188MiB / 19.47GiB
+prometheus, 0.00%, 36.85MiB / 19.47GiB
+cadvisor, 3.32%, 31.72MiB / 19.47GiB
+
+grafana, 0.26%, 20.82MiB / 19.47GiB
+node-exporter, 3.50%, 8.188MiB / 19.47GiB
+prometheus, 0.27%, 36.88MiB / 19.47GiB
+cadvisor, 4.00%, 31.72MiB / 19.47GiB
+
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.188MiB / 19.47GiB
+prometheus, 0.00%, 36.88MiB / 19.47GiB
+cadvisor, 2.23%, 31.72MiB / 19.47GiB
+
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.188MiB / 19.47GiB
+prometheus, 2.50%, 37.32MiB / 19.47GiB
+cadvisor, 8.79%, 31.73MiB / 19.47GiB
+
+grafana, 0.04%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.199MiB / 19.47GiB
+prometheus, 0.00%, 37MiB / 19.47GiB
+cadvisor, 3.76%, 31.73MiB / 19.47GiB
+
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.199MiB / 19.47GiB
+prometheus, 0.00%, 37MiB / 19.47GiB
+cadvisor, 1.45%, 31.73MiB / 19.47GiB
+
+grafana, 0.25%, 20.82MiB / 19.47GiB
+node-exporter, 4.87%, 8.211MiB / 19.47GiB
+prometheus, 0.65%, 37.02MiB / 19.47GiB
+cadvisor, 4.08%, 32.03MiB / 19.47GiB
+
+grafana, 0.04%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.211MiB / 19.47GiB
+prometheus, 0.00%, 37.02MiB / 19.47GiB
+cadvisor, 2.02%, 31.74MiB / 19.47GiB
+
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.211MiB / 19.47GiB
+prometheus, 1.61%, 37.04MiB / 19.47GiB
+cadvisor, 10.31%, 31.96MiB / 19.47GiB
+
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.211MiB / 19.47GiB
+prometheus, 0.00%, 37.04MiB / 19.47GiB
+cadvisor, 3.07%, 31.77MiB / 19.47GiB
+
+grafana, 0.04%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.211MiB / 19.47GiB
+prometheus, 0.00%, 37.04MiB / 19.47GiB
+cadvisor, 2.60%, 31.77MiB / 19.47GiB
+
+grafana, 0.14%, 20.82MiB / 19.47GiB
+node-exporter, 2.03%, 8.23MiB / 19.47GiB
+prometheus, 0.62%, 37.1MiB / 19.47GiB
+cadvisor, 11.08%, 31.79MiB / 19.47GiB
+openj9_warm, 272.31%, 50.62MiB / 19.47GiB
+
+openj9_warm, 129.47%, 103.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.23MiB / 19.47GiB
+prometheus, 0.00%, 37.1MiB / 19.47GiB
+cadvisor, 1.90%, 31.79MiB / 19.47GiB
+
+openj9_warm, 178.58%, 100.5MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 2.06%, 8.23MiB / 19.47GiB
+prometheus, 0.18%, 37.15MiB / 19.47GiB
+cadvisor, 1.15%, 31.8MiB / 19.47GiB
+
+openj9_warm, 176.47%, 104.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.23MiB / 19.47GiB
+prometheus, 0.00%, 37.15MiB / 19.47GiB
+cadvisor, 0.99%, 31.8MiB / 19.47GiB
+
+openj9_warm, 163.93%, 109.8MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.23MiB / 19.47GiB
+prometheus, 1.02%, 37.17MiB / 19.47GiB
+cadvisor, 5.48%, 31.8MiB / 19.47GiB
+
+openj9_warm, 134.74%, 112.2MiB / 19.47GiB
+grafana, 0.04%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.242MiB / 19.47GiB
+prometheus, 0.00%, 37.18MiB / 19.47GiB
+cadvisor, 0.50%, 31.8MiB / 19.47GiB
+
+openj9_warm, 152.79%, 127.7MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.242MiB / 19.47GiB
+prometheus, 0.00%, 37.18MiB / 19.47GiB
+cadvisor, 0.62%, 31.8MiB / 19.47GiB
+
+openj9_warm, 114.86%, 109.7MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 2.29%, 8.246MiB / 19.47GiB
+prometheus, 0.18%, 37.31MiB / 19.47GiB
+cadvisor, 1.10%, 31.8MiB / 19.47GiB
+
+openj9_warm, 144.79%, 121.9MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.246MiB / 19.47GiB
+prometheus, 0.00%, 37.31MiB / 19.47GiB
+cadvisor, 0.93%, 31.8MiB / 19.47GiB
+
+openj9_warm, 142.82%, 113.6MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.246MiB / 19.47GiB
+prometheus, 1.04%, 37.45MiB / 19.47GiB
+cadvisor, 5.92%, 31.81MiB / 19.47GiB
+
+openj9_warm, 165.27%, 121.9MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.273MiB / 19.47GiB
+prometheus, 0.00%, 37.46MiB / 19.47GiB
+cadvisor, 0.73%, 31.81MiB / 19.47GiB
+
+openj9_warm, 131.14%, 117.6MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.273MiB / 19.47GiB
+prometheus, 0.00%, 37.46MiB / 19.47GiB
+cadvisor, 0.87%, 31.81MiB / 19.47GiB
+
+openj9_warm, 390.38%, 155.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.01%, 8.277MiB / 19.47GiB
+prometheus, 0.29%, 37.48MiB / 19.47GiB
+cadvisor, 1.08%, 31.81MiB / 19.47GiB
+
+openj9_warm, 251.28%, 117.6MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.277MiB / 19.47GiB
+prometheus, 0.00%, 37.48MiB / 19.47GiB
+cadvisor, 1.20%, 31.82MiB / 19.47GiB
+
+openj9_warm, 194.95%, 128.2MiB / 19.47GiB
+grafana, 0.09%, 20.82MiB / 19.47GiB
+node-exporter, 2.72%, 8.281MiB / 19.47GiB
+prometheus, 1.11%, 37.51MiB / 19.47GiB
+cadvisor, 5.50%, 31.83MiB / 19.47GiB
+
+openj9_warm, 171.87%, 118.9MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.281MiB / 19.47GiB
+prometheus, 0.00%, 37.51MiB / 19.47GiB
+cadvisor, 0.95%, 31.84MiB / 19.47GiB
+
+openj9_warm, 110.15%, 115.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.281MiB / 19.47GiB
+prometheus, 0.00%, 37.51MiB / 19.47GiB
+cadvisor, 0.71%, 31.84MiB / 19.47GiB
+
+openj9_warm, 103.71%, 114.3MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.285MiB / 19.47GiB
+prometheus, 0.00%, 37.41MiB / 19.47GiB
+cadvisor, 0.82%, 31.84MiB / 19.47GiB
+
+openj9_warm, 118.94%, 121.7MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.285MiB / 19.47GiB
+prometheus, 0.00%, 37.41MiB / 19.47GiB
+cadvisor, 1.05%, 31.84MiB / 19.47GiB
+
+openj9_warm, 158.07%, 128.7MiB / 19.47GiB
+grafana, 0.08%, 20.82MiB / 19.47GiB
+node-exporter, 2.14%, 8.453MiB / 19.47GiB
+prometheus, 1.22%, 37.59MiB / 19.47GiB
+cadvisor, 5.29%, 31.84MiB / 19.47GiB
+
+openj9_warm, 105.57%, 115.5MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.293MiB / 19.47GiB
+prometheus, 0.00%, 37.59MiB / 19.47GiB
+cadvisor, 0.66%, 31.85MiB / 19.47GiB
+
+openj9_warm, 110.18%, 121.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.293MiB / 19.47GiB
+prometheus, 0.00%, 37.59MiB / 19.47GiB
+cadvisor, 3.29%, 32.45MiB / 19.47GiB
+
+openj9_warm, 181.56%, 122.3MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.297MiB / 19.47GiB
+prometheus, 0.00%, 37.63MiB / 19.47GiB
+cadvisor, 0.72%, 31.86MiB / 19.47GiB
+
+openj9_warm, 104.76%, 115.2MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.297MiB / 19.47GiB
+prometheus, 0.00%, 37.63MiB / 19.47GiB
+cadvisor, 0.95%, 31.87MiB / 19.47GiB
+
+openj9_warm, 106.44%, 115.5MiB / 19.47GiB
+grafana, 0.08%, 20.82MiB / 19.47GiB
+node-exporter, 2.25%, 8.305MiB / 19.47GiB
+prometheus, 1.22%, 37.67MiB / 19.47GiB
+cadvisor, 5.49%, 32.56MiB / 19.47GiB
+
+openj9_warm, 104.40%, 115.6MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.305MiB / 19.47GiB
+prometheus, 0.00%, 37.67MiB / 19.47GiB
+cadvisor, 0.79%, 32.45MiB / 19.47GiB
+
+openj9_warm, 109.37%, 115.9MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.305MiB / 19.47GiB
+prometheus, 0.34%, 37.68MiB / 19.47GiB
+cadvisor, 2.91%, 32.45MiB / 19.47GiB
+
+openj9_warm, 104.63%, 115.7MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.312MiB / 19.47GiB
+prometheus, 0.00%, 37.7MiB / 19.47GiB
+cadvisor, 0.87%, 32.45MiB / 19.47GiB
+
+openj9_warm, 109.35%, 116.6MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.312MiB / 19.47GiB
+prometheus, 0.00%, 37.7MiB / 19.47GiB
+cadvisor, 1.26%, 32.45MiB / 19.47GiB
+
+openj9_warm, 171.08%, 131.7MiB / 19.47GiB
+grafana, 0.16%, 20.82MiB / 19.47GiB
+node-exporter, 2.46%, 8.316MiB / 19.47GiB
+prometheus, 0.72%, 37.72MiB / 19.47GiB
+cadvisor, 1.58%, 32.45MiB / 19.47GiB
+
+openj9_warm, 102.13%, 118.4MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.316MiB / 19.47GiB
+prometheus, 0.00%, 37.72MiB / 19.47GiB
+cadvisor, 0.72%, 32.45MiB / 19.47GiB
+
+openj9_warm, 103.06%, 118.1MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.316MiB / 19.47GiB
+prometheus, 0.47%, 37.84MiB / 19.47GiB
+cadvisor, 3.58%, 32.45MiB / 19.47GiB
+
+openj9_warm, 104.49%, 118.1MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.332MiB / 19.47GiB
+prometheus, 0.00%, 37.49MiB / 19.47GiB
+cadvisor, 0.67%, 32.45MiB / 19.47GiB
+
+openj9_warm, 107.69%, 118.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.332MiB / 19.47GiB
+prometheus, 0.00%, 37.49MiB / 19.47GiB
+cadvisor, 1.80%, 32.45MiB / 19.47GiB
+
+openj9_warm, 106.22%, 118.2MiB / 19.47GiB
+grafana, 0.09%, 20.82MiB / 19.47GiB
+node-exporter, 2.33%, 8.336MiB / 19.47GiB
+prometheus, 0.72%, 37.52MiB / 19.47GiB
+cadvisor, 1.59%, 32.45MiB / 19.47GiB
+
+openj9_warm, 101.82%, 118.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.336MiB / 19.47GiB
+prometheus, 0.00%, 37.52MiB / 19.47GiB
+cadvisor, 1.14%, 32.45MiB / 19.47GiB
+
+openj9_warm, 107.51%, 118.2MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.336MiB / 19.47GiB
+prometheus, 0.40%, 37.64MiB / 19.47GiB
+cadvisor, 3.97%, 32.45MiB / 19.47GiB
+
+openj9_warm, 104.88%, 118.2MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.348MiB / 19.47GiB
+prometheus, 0.00%, 37.54MiB / 19.47GiB
+cadvisor, 0.85%, 32.45MiB / 19.47GiB
+
+openj9_warm, 102.59%, 118.3MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.348MiB / 19.47GiB
+prometheus, 0.00%, 37.54MiB / 19.47GiB
+cadvisor, 0.95%, 32.45MiB / 19.47GiB
+
+0.03user 0.02system 1:21.94elapsed 0%CPU (0avgtext+0avgdata 58124maxresident)k
+0inputs+0outputs (0major+7221minor)pagefaults 0swaps
+openj9_warm
+grafana, 0.09%, 20.82MiB / 19.47GiB
+node-exporter, 2.12%, 8.355MiB / 19.47GiB
+prometheus, 0.79%, 37.57MiB / 19.47GiB
+cadvisor, 2.87%, 32.58MiB / 19.47GiB
+
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.352MiB / 19.47GiB
+prometheus, 0.00%, 37.57MiB / 19.47GiB
+cadvisor, 0.75%, 32.43MiB / 19.47GiB
+openj9_cold, 269.03%, 61.35MiB / 19.47GiB
+
+openj9_cold, 257.97%, 80.76MiB / 19.47GiB
+grafana, 0.03%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.352MiB / 19.47GiB
+prometheus, 0.36%, 37.61MiB / 19.47GiB
+cadvisor, 2.66%, 32.44MiB / 19.47GiB
+
+openj9_cold, 175.48%, 115.8MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.355MiB / 19.47GiB
+prometheus, 0.00%, 37.62MiB / 19.47GiB
+cadvisor, 1.04%, 32.44MiB / 19.47GiB
+
+openj9_cold, 293.15%, 194.7MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.355MiB / 19.47GiB
+prometheus, 0.00%, 37.62MiB / 19.47GiB
+cadvisor, 1.31%, 32.44MiB / 19.47GiB
+
+openj9_cold, 383.78%, 321.2MiB / 19.47GiB
+grafana, 0.10%, 20.82MiB / 19.47GiB
+node-exporter, 3.11%, 8.375MiB / 19.47GiB
+prometheus, 0.88%, 37.66MiB / 19.47GiB
+cadvisor, 1.93%, 32.44MiB / 19.47GiB
+
+openj9_cold, 394.62%, 148.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.375MiB / 19.47GiB
+prometheus, 0.00%, 37.66MiB / 19.47GiB
+cadvisor, 1.44%, 32.56MiB / 19.47GiB
+
+openj9_cold, 284.33%, 127.8MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.375MiB / 19.47GiB
+prometheus, 0.37%, 37.68MiB / 19.47GiB
+cadvisor, 4.07%, 32.44MiB / 19.47GiB
+
+openj9_cold, 200.50%, 126.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.375MiB / 19.47GiB
+prometheus, 0.00%, 37.69MiB / 19.47GiB
+cadvisor, 1.05%, 32.44MiB / 19.47GiB
+
+openj9_cold, 230.72%, 138.3MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.375MiB / 19.47GiB
+prometheus, 0.00%, 37.69MiB / 19.47GiB
+cadvisor, 1.13%, 32.44MiB / 19.47GiB
+
+openj9_cold, 235.55%, 182.7MiB / 19.47GiB
+grafana, 0.10%, 20.82MiB / 19.47GiB
+node-exporter, 2.55%, 8.379MiB / 19.47GiB
+prometheus, 0.77%, 37.71MiB / 19.47GiB
+cadvisor, 0.58%, 32.44MiB / 19.47GiB
+
+openj9_cold, 220.48%, 179.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.379MiB / 19.47GiB
+prometheus, 0.00%, 37.71MiB / 19.47GiB
+cadvisor, 1.88%, 32.44MiB / 19.47GiB
+
+openj9_cold, 152.48%, 125.3MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.379MiB / 19.47GiB
+prometheus, 0.38%, 37.73MiB / 19.47GiB
+cadvisor, 2.89%, 32.45MiB / 19.47GiB
+
+openj9_cold, 192.11%, 125.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.387MiB / 19.47GiB
+prometheus, 0.00%, 37.75MiB / 19.47GiB
+cadvisor, 0.58%, 32.45MiB / 19.47GiB
+
+openj9_cold, 116.97%, 125.8MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.387MiB / 19.47GiB
+prometheus, 0.00%, 37.75MiB / 19.47GiB
+cadvisor, 0.81%, 32.45MiB / 19.47GiB
+
+openj9_cold, 229.65%, 265.5MiB / 19.47GiB
+grafana, 0.10%, 20.82MiB / 19.47GiB
+node-exporter, 2.37%, 8.395MiB / 19.47GiB
+prometheus, 0.70%, 37.89MiB / 19.47GiB
+cadvisor, 1.33%, 32.45MiB / 19.47GiB
+
+openj9_cold, 199.34%, 142.5MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.395MiB / 19.47GiB
+prometheus, 0.00%, 37.77MiB / 19.47GiB
+cadvisor, 1.83%, 32.46MiB / 19.47GiB
+
+openj9_cold, 117.63%, 128.7MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.395MiB / 19.47GiB
+prometheus, 0.47%, 37.79MiB / 19.47GiB
+cadvisor, 7.67%, 32.48MiB / 19.47GiB
+
+openj9_cold, 120.32%, 139.1MiB / 19.47GiB
+grafana, 0.02%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.398MiB / 19.47GiB
+prometheus, 0.00%, 37.8MiB / 19.47GiB
+cadvisor, 1.15%, 32.48MiB / 19.47GiB
+
+openj9_cold, 230.63%, 282.2MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.398MiB / 19.47GiB
+prometheus, 0.00%, 37.8MiB / 19.47GiB
+cadvisor, 1.72%, 32.48MiB / 19.47GiB
+
+openj9_cold, 211.91%, 216.6MiB / 19.47GiB
+grafana, 0.13%, 20.82MiB / 19.47GiB
+node-exporter, 2.61%, 8.414MiB / 19.47GiB
+prometheus, 0.85%, 37.83MiB / 19.47GiB
+cadvisor, 1.19%, 32.48MiB / 19.47GiB
+
+openj9_cold, 218.56%, 334.1MiB / 19.47GiB
+grafana, 0.01%, 20.82MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.00%, 37.83MiB / 19.47GiB
+cadvisor, 0.96%, 32.48MiB / 19.47GiB
+
+openj9_cold, 180.92%, 129.7MiB / 19.47GiB
+grafana, 0.02%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 2.94%, 37.98MiB / 19.47GiB
+cadvisor, 3.23%, 32.49MiB / 19.47GiB
+
+openj9_cold, 107.41%, 129.8MiB / 19.47GiB
+grafana, 0.02%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.00%, 37.86MiB / 19.47GiB
+cadvisor, 1.25%, 32.49MiB / 19.47GiB
+
+openj9_cold, 106.87%, 129.8MiB / 19.47GiB
+grafana, 0.01%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.00%, 37.86MiB / 19.47GiB
+cadvisor, 2.80%, 32.62MiB / 19.47GiB
+
+openj9_cold, 108.31%, 130.3MiB / 19.47GiB
+grafana, 0.08%, 20.83MiB / 19.47GiB
+node-exporter, 2.05%, 8.414MiB / 19.47GiB
+prometheus, 0.19%, 37.76MiB / 19.47GiB
+cadvisor, 0.51%, 32.51MiB / 19.47GiB
+
+openj9_cold, 112.63%, 132.3MiB / 19.47GiB
+grafana, 0.02%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.00%, 37.76MiB / 19.47GiB
+cadvisor, 0.82%, 32.51MiB / 19.47GiB
+
+openj9_cold, 104.08%, 130.6MiB / 19.47GiB
+grafana, 0.02%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.90%, 37.91MiB / 19.47GiB
+cadvisor, 3.62%, 32.51MiB / 19.47GiB
+
+openj9_cold, 153.51%, 132.2MiB / 19.47GiB
+grafana, 0.01%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.00%, 37.79MiB / 19.47GiB
+cadvisor, 0.79%, 32.51MiB / 19.47GiB
+
+openj9_cold, 106.32%, 131.9MiB / 19.47GiB
+grafana, 0.02%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.414MiB / 19.47GiB
+prometheus, 0.00%, 37.79MiB / 19.47GiB
+cadvisor, 0.82%, 32.51MiB / 19.47GiB
+
+openj9_cold, 106.60%, 131.9MiB / 19.47GiB
+grafana, 0.08%, 20.83MiB / 19.47GiB
+node-exporter, 2.21%, 8.438MiB / 19.47GiB
+prometheus, 0.17%, 37.84MiB / 19.47GiB
+cadvisor, 1.80%, 32.52MiB / 19.47GiB
+
+openj9_cold, 109.65%, 132MiB / 19.47GiB
+grafana, 0.01%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.438MiB / 19.47GiB
+prometheus, 0.00%, 37.84MiB / 19.47GiB
+cadvisor, 0.77%, 32.52MiB / 19.47GiB
+
+openj9_cold, 110.25%, 132.3MiB / 19.47GiB
+grafana, 0.01%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.438MiB / 19.47GiB
+prometheus, 0.83%, 37.86MiB / 19.47GiB
+cadvisor, 3.57%, 32.52MiB / 19.47GiB
+
+openj9_cold, 111.38%, 137MiB / 19.47GiB
+grafana, 0.02%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 0.00%, 37.75MiB / 19.47GiB
+cadvisor, 1.01%, 32.52MiB / 19.47GiB
+
+openj9_cold, 111.23%, 133.2MiB / 19.47GiB
+grafana, 0.01%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 0.00%, 37.75MiB / 19.47GiB
+cadvisor, 0.95%, 32.52MiB / 19.47GiB
+
+openj9_cold, 105.42%, 133MiB / 19.47GiB
+grafana, 0.08%, 20.83MiB / 19.47GiB
+node-exporter, 2.30%, 8.449MiB / 19.47GiB
+prometheus, 0.16%, 37.78MiB / 19.47GiB
+cadvisor, 0.95%, 32.52MiB / 19.47GiB
+
+0.02user 0.03system 1:11.71elapsed 0%CPU (0avgtext+0avgdata 58504maxresident)k
+0inputs+0outputs (0major+7328minor)pagefaults 0swaps
+openj9_cold
+docker: Error response from daemon: Conflict. The container name "/openj9_shared_cache" is already in use by container "fd12cec9209fef83e6d0d61d72999a068d616e6adacbb57ca98ddf1f8fc7aa3f". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+Command exited with non-zero status 125
+0.01user 0.04system 0:00.05elapsed 105%CPU (0avgtext+0avgdata 58600maxresident)k
+0inputs+0outputs (0major+7383minor)pagefaults 0swaps
+grafana, 0.01%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 0.00%, 37.78MiB / 19.47GiB
+cadvisor, 1.49%, 32.51MiB / 19.47GiB
+
+grafana, 0.03%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 1.85%, 37.8MiB / 19.47GiB
+cadvisor, 7.84%, 32.5MiB / 19.47GiB
+
+grafana, 0.03%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 0.00%, 37.8MiB / 19.47GiB
+cadvisor, 1.98%, 32.5MiB / 19.47GiB
+
+grafana, 0.03%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 0.00%, 37.8MiB / 19.47GiB
+cadvisor, 2.19%, 32.52MiB / 19.47GiB
+
+grafana, 0.26%, 20.83MiB / 19.47GiB
+node-exporter, 7.07%, 8.555MiB / 19.47GiB
+prometheus, 0.54%, 37.7MiB / 19.47GiB
+cadvisor, 4.70%, 32.52MiB / 19.47GiB
+
+grafana, 0.06%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 0.00%, 37.7MiB / 19.47GiB
+cadvisor, 3.22%, 32.52MiB / 19.47GiB
+
+grafana, 0.03%, 20.83MiB / 19.47GiB
+node-exporter, 0.00%, 8.449MiB / 19.47GiB
+prometheus, 2.18%, 37.72MiB / 19.47GiB
+cadvisor, 8.21%, 32.51MiB / 19.47GiB
+
+
+
+
+
+
+
